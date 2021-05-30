@@ -7,6 +7,6 @@
 <b>Email: </b>qrcapangca@tip.edu.ph
 
 ####Computer Specs
-* <b>CPU: </b>Intel Core i3-4005U
+* <b>CPU: </b>Intel Core i5-4005U
 * <b>RAM: </b>4GB
 * </b>STORAGE: </b> 1000GB HDD
